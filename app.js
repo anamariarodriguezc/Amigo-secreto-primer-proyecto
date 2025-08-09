@@ -54,4 +54,4 @@ document.getElementById("amigo").addEventListener("keydown", function(event) {
     event.preventDefault(); 
     agregarAmigo();
   }
-});
+}); // Este comando es para que al dar tecla ENTER se agrege un nuevo amigo 
